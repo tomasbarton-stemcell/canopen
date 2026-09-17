@@ -275,7 +275,7 @@ def _build_variable(
         'USINT': datatypes.UNSIGNED8,
         'UINT': datatypes.UNSIGNED16,
         'UDINT': datatypes.UNSIGNED32,
-        'ULINT': datatypes.UNSIGNED32,
+        'ULINT': datatypes.UNSIGNED64,
         'REAL': datatypes.REAL32,
         'LREAL': datatypes.REAL64,
         'STRING': datatypes.VISIBLE_STRING,
